@@ -11,7 +11,6 @@ Predict future stock prices using an RNN model based on historical closing price
 
   
 
-
 ## Design Steps
 
 
